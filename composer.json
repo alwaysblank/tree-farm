@@ -1,0 +1,12 @@
+{
+    "name": "alwaysblank/tree-farm",
+    "description": "Transform a multi-dimensional seed into a mighty nested tree.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Ben Martinez-Bateman",
+            "email": "ben@alwaysblank.org"
+        }
+    ],
+    "require": {}
+}
